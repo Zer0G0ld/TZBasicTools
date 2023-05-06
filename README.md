@@ -35,8 +35,8 @@ cd TZBasicTools
 3. Give permission and run the code 
 
 ```
-chmod +x basictools.bash
-./basictools.bash
+chmod +x basic-tools.sh
+./basic-tools.sh
 ```
 
 ## Contributing
