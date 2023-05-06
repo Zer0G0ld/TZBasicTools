@@ -45,4 +45,4 @@ This repository is open for contributions. If you would like to add a new tool o
 
 ## License
 
-This repository is licensed under the MIT License. See the <a href="#">LICENSE</a> file for more information.
+This repository is licensed under the MIT License. See the <a href="https://github.com/Odin-Hat/BasicTools/blob/main/LICENSE">LICENSE</a> file for more information.
