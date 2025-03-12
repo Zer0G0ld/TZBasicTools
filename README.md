@@ -24,7 +24,7 @@ here is a list of the tools included in this repository:
 1. Clone the repository:
 
 ```
-git clone https://github.com/Odin-Hat/TZBasicTools
+git clone https://github.com/Zer0G0ld/TZBasicTools
 ```
 2. Navigate to the directory 
 
@@ -35,8 +35,8 @@ cd TZBasicTools
 3. Give permission and run the code 
 
 ```
-chmod +x basic-tools.sh
-./basic-tools.sh
+chmod +x root.sh
+./root.sh
 ```
 
 ## Contributing
@@ -45,4 +45,4 @@ This repository is open for contributions. If you would like to add a new tool o
 
 ## License
 
-This repository is licensed under the MIT License. See the <a href="https://github.com/Odin-Hat/BasicTools/blob/main/LICENSE">LICENSE</a> file for more information.
+This repository is licensed under the MIT License. See the <a href="https://github.com/Zer0G0ld/BasicTools/blob/main/LICENSE">LICENSE</a> file for more information.
